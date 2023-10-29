@@ -1,1 +1,0 @@
-# TextSight-Recognizing-Text-With-Firebase-ML
