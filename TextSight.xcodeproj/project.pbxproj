@@ -8,25 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		055053ABC5A5B3FBEF2BF726 /* Pods_TextSight.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85C8886DA10EB26C965787FF /* Pods_TextSight.framework */; };
+		CF2AEFA82AEEAAF80085ABF4 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2AEFA72AEEAAF80085ABF4 /* HomeView.swift */; };
+		CF2AEFAA2AEEAB340085ABF4 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2AEFA92AEEAB340085ABF4 /* Theme.swift */; };
+		CF2AEFAD2AEEB2510085ABF4 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2AEFAC2AEEB2510085ABF4 /* HistoryView.swift */; };
 		CF2DB6552AEE314F004CCB12 /* TextSightApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2DB6542AEE314F004CCB12 /* TextSightApp.swift */; };
-		CF2DB6572AEE314F004CCB12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2DB6562AEE314F004CCB12 /* ContentView.swift */; };
+		CF2DB6572AEE314F004CCB12 /* BottomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2DB6562AEE314F004CCB12 /* BottomTabBar.swift */; };
 		CF2DB6592AEE314F004CCB12 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2DB6582AEE314F004CCB12 /* Item.swift */; };
 		CF2DB65B2AEE3150004CCB12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF2DB65A2AEE3150004CCB12 /* Assets.xcassets */; };
 		CF2DB65E2AEE3150004CCB12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF2DB65D2AEE3150004CCB12 /* Preview Assets.xcassets */; };
 		CFF0FB872AEE47120045CEA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFF0FB862AEE47120045CEA6 /* LaunchScreen.storyboard */; };
+		CFF0FB8B2AEE4AB20045CEA6 /*  Image++.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF0FB8A2AEE4AB20045CEA6 /*  Image++.swift */; };
+		CFF0FB8E2AEE4C9B0045CEA6 /* DarkMode++.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF0FB8D2AEE4C9B0045CEA6 /* DarkMode++.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		754A45CB04D35ACB593A7690 /* Pods-TextSight.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TextSight.release.xcconfig"; path = "Target Support Files/Pods-TextSight/Pods-TextSight.release.xcconfig"; sourceTree = "<group>"; };
 		85C8886DA10EB26C965787FF /* Pods_TextSight.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TextSight.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		96C89372FAA9B0492621627E /* Pods-TextSight.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TextSight.debug.xcconfig"; path = "Target Support Files/Pods-TextSight/Pods-TextSight.debug.xcconfig"; sourceTree = "<group>"; };
+		CF2AEFA72AEEAAF80085ABF4 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		CF2AEFA92AEEAB340085ABF4 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		CF2AEFAC2AEEB2510085ABF4 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 		CF2DB6512AEE314F004CCB12 /* TextSight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextSight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF2DB6542AEE314F004CCB12 /* TextSightApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSightApp.swift; sourceTree = "<group>"; };
-		CF2DB6562AEE314F004CCB12 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CF2DB6562AEE314F004CCB12 /* BottomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomTabBar.swift; sourceTree = "<group>"; };
 		CF2DB6582AEE314F004CCB12 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		CF2DB65A2AEE3150004CCB12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF2DB65D2AEE3150004CCB12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CFF0FB862AEE47120045CEA6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CFF0FB8A2AEE4AB20045CEA6 /*  Image++.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Image++.swift"; sourceTree = "<group>"; };
+		CFF0FB8D2AEE4C9B0045CEA6 /* DarkMode++.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DarkMode++.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +68,25 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		CF2AEFA62AEEAAEB0085ABF4 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				CF2AEFA72AEEAAF80085ABF4 /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		CF2AEFAB2AEEB2480085ABF4 /* History */ = {
+			isa = PBXGroup;
+			children = (
+				CF2AEFAC2AEEB2510085ABF4 /* HistoryView.swift */,
+			);
+			path = History;
+			sourceTree = "<group>";
+		};
 		CF2DB6482AEE314F004CCB12 = {
 			isa = PBXGroup;
 			children = (
-				CFF0FB862AEE47120045CEA6 /* LaunchScreen.storyboard */,
 				CF2DB6532AEE314F004CCB12 /* TextSight */,
 				CF2DB6522AEE314F004CCB12 /* Products */,
 				7B4E30DE30CBC6F409760277 /* Pods */,
@@ -80,8 +105,9 @@
 		CF2DB6532AEE314F004CCB12 /* TextSight */ = {
 			isa = PBXGroup;
 			children = (
+				CFF0FB882AEE4A9C0045CEA6 /* Utility */,
+				CFF0FB8F2AEE4E0E0045CEA6 /* View+ViewModel */,
 				CF2DB6542AEE314F004CCB12 /* TextSightApp.swift */,
-				CF2DB6562AEE314F004CCB12 /* ContentView.swift */,
 				CF2DB6582AEE314F004CCB12 /* Item.swift */,
 				CF2DB65A2AEE3150004CCB12 /* Assets.xcassets */,
 				CF2DB65C2AEE3150004CCB12 /* Preview Content */,
@@ -95,6 +121,51 @@
 				CF2DB65D2AEE3150004CCB12 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CFF0FB882AEE4A9C0045CEA6 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				CFF0FB8C2AEE4C810045CEA6 /* Helpers */,
+				CFF0FB892AEE4AA30045CEA6 /* Extensions */,
+				CF2AEFA92AEEAB340085ABF4 /* Theme.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		CFF0FB892AEE4AA30045CEA6 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				CFF0FB8A2AEE4AB20045CEA6 /*  Image++.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		CFF0FB8C2AEE4C810045CEA6 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				CFF0FB8D2AEE4C9B0045CEA6 /* DarkMode++.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		CFF0FB8F2AEE4E0E0045CEA6 /* View+ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				CF2AEFAB2AEEB2480085ABF4 /* History */,
+				CF2AEFA62AEEAAEB0085ABF4 /* Home */,
+				CFF0FB902AEE4E1B0045CEA6 /* SplashScreen */,
+				CF2DB6562AEE314F004CCB12 /* BottomTabBar.swift */,
+			);
+			path = "View+ViewModel";
+			sourceTree = "<group>";
+		};
+		CFF0FB902AEE4E1B0045CEA6 /* SplashScreen */ = {
+			isa = PBXGroup;
+			children = (
+				CFF0FB862AEE47120045CEA6 /* LaunchScreen.storyboard */,
+			);
+			path = SplashScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,9 +301,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF2DB6572AEE314F004CCB12 /* ContentView.swift in Sources */,
+				CFF0FB8E2AEE4C9B0045CEA6 /* DarkMode++.swift in Sources */,
+				CF2AEFAD2AEEB2510085ABF4 /* HistoryView.swift in Sources */,
+				CF2DB6572AEE314F004CCB12 /* BottomTabBar.swift in Sources */,
 				CF2DB6592AEE314F004CCB12 /* Item.swift in Sources */,
+				CF2AEFA82AEEAAF80085ABF4 /* HomeView.swift in Sources */,
+				CFF0FB8B2AEE4AB20045CEA6 /*  Image++.swift in Sources */,
 				CF2DB6552AEE314F004CCB12 /* TextSightApp.swift in Sources */,
+				CF2AEFAA2AEEAB340085ABF4 /* Theme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

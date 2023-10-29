@@ -4,7 +4,8 @@
 target 'TextSight' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-
+  #image cropper
+  pod 'Mantis', '~> 2.9.1'
   # Pods for TextSight
   pod 'Firebase/MLVision', '6.25.0'
   # If using an on-device API:
